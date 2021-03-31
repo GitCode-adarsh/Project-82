@@ -1,0 +1,29 @@
+.background {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: brown;
+    font-size: 30px;
+}
+
+#mycanvas {
+    border-width: 5px;
+    border-style: dashed;
+    background-color: white;
+}
+
+span {
+    font-size: 20px;
+}
+body{
+    cursor: pointer;
+}
+button{
+    background-color: red;
+    color: yellow;
+    font-size: 20px;
+    padding: 10px 20px;
+}
